@@ -1,7 +1,7 @@
 import random
 
 def choose_word():
-    words = ["singapore", "china", "canada", "russia", "italy"]
+    words = ["singapore", "china", "canada", "russia", "italy"] # the list of words, you can add more.
     return random.choice(words)
 
 def display_word(word, guessed_letters):
@@ -12,7 +12,7 @@ def display_word(word, guessed_letters):
         else:
             display += "_ "
     return display.strip()
-
+# initiate the game 
 def hangman():
     word = choose_word()
     guessed_letters = []
