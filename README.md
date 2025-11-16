@@ -1,4 +1,4 @@
-# 💻Python-projectzz
+# 💻Python-beginner-codes
 📃This is a small list of python codes, feel free to use them.
 ## Program codes
 #### 🏦[Banking system](https://github.com/Vaishnavrm777/Python-projectzz/blob/b46917ae2dd58de06be0ee01b7daa0c2a0fccf80/Banking%20system/banksys.py)💵
